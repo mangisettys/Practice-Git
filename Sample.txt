@@ -1,6 +1,12 @@
 Hello
 
+<<<<<<< HEAD
 Hello this is test the remote from terminal
+=======
+
+this edit is to practice in terminal....
+
+>>>>>>> 46ac2d581c1b48648e4b924317ebc19d92500f5f
 
 Welcome to this training....
 This is Sunil Practicing the github
