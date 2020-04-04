@@ -2,13 +2,6 @@ Hello
 
 
 Hello this is test the remote from terminal
-
-
-
-this edit is to practice in terminal....
-
-Hello this is test the remote from terminal
-
 Welcome to this training....
 This is Sunil Practicing the github
 This is a Sample File 
