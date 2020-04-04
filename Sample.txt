@@ -1,6 +1,6 @@
 Hello
 
-
+Hello this is test the remote from terminal
 
 Welcome to this training....
 This is Sunil Practicing the github
