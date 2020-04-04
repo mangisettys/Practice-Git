@@ -1,11 +1,15 @@
 Hello
 
 
+
 this edit is to practice in terminal....
+
+Hello this is test the remote from terminal
 
 
 Welcome to this training....
 This is Sunil Practicing the github
+This is a Sample File 
 
 This is Sunil Practicing Git 
 This is Sunil and my organisation is mangisettys
